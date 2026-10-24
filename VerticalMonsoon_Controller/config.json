@@ -1,0 +1,12 @@
+{
+  "camera_index": 0,
+  "serial_port": "COM3",
+  "baud_rate": 115200,
+  "confidence_threshold": 0.55,
+  "detect_every_n_frames": 3,
+  "trigger_confirm_frames": 3,
+  "release_delay_seconds": 5,
+  "command_repeat_seconds": 1,
+  "simulation_mode": false,
+  "show_preview": true
+}
